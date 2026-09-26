@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blackmary)](https://solved.ac/blackmary/)
-
 <!--
 **hks0704/hks0704** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> **Backend Developer | Java · Spring Boot · Database · Network**
+
+서비스의 요구사항을 분석하고,
+**안정적으로 동작하는 백엔드 시스템을 설계하고 구현하는 개발자**를 목표로 하고 있습니다.
+
+* 🔭 Currently interested in **Backend / Server / Cloud**
+* 🌱 Studying **Java, Spring Boot, Database, Network & Infrastructure**
+* 🛠️ Prefer understanding **why** a technology is needed before using it
+* 💡 Interested in **performance, reliability and system design**
+
+---
 
 # 💪Skills
 ### Platforms & Languages
@@ -34,3 +44,18 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=Git&logoColor=white)
 ![Eclipse IDE](https://img.shields.io/badge/Eclipse%20IDE-2C2255.svg?&style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+---
+
+## 📈 Algorithm
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=blackmary)](https://solved.ac/blackmary/)
+
+**Primary Language:** `Java`
+**Also:** `C++`
+
+---
+
+<p align="center">
+  <sub>Building things, understanding systems, and learning every day.</sub>
+</p>
