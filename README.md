@@ -27,6 +27,18 @@ Here are some ideas to get you started:
 
 ---
 
+# 🗂️ Projects
+
+| Project | Description | Tech Stack | Repository |
+|:---|:---|:---|:---:|
+| **AI Workflow Pipeline** | Slack 요청 기반 AI 비동기 작업 처리 파이프라인 | Java, Spring Boot, Python, FastAPI, RabbitMQ | [🔗 GitHub](https://github.com/hks0704/audit-log-board) |
+| **Payment Socket Communication** | C++ 클라이언트와 Java 서버 간 TCP 소켓 통신 및 메시지 프로토콜 구현 | C++, Java, TCP/IP, Winsock | [🔗 GitHub](https://github.com/hks0704/audit-log-board) |
+| **Backend Service** | REST API 설계 및 데이터베이스 연동을 통한 백엔드 서비스 개발 | Java, Spring Boot, MyBatis, MySQL | [🔗 GitHub](https://github.com/hks0704/audit-log-board) |
+
+
+
+---
+
 # 💪Skills
 ### Platforms & Languages
 ![C](https://img.shields.io/badge/c-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black)
