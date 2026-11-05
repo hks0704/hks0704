@@ -35,7 +35,14 @@ Here are some ideas to get you started:
 | **Payment Socket Communication** | C++ 클라이언트와 Java 서버 간 TCP 소켓 통신 및 메시지 프로토콜 구현 | C++, Java, TCP/IP, Winsock | [🔗 GitHub](https://github.com/hks0704/audit-log-board) |
 | **Backend Service** | REST API 설계 및 데이터베이스 연동을 통한 백엔드 서비스 개발 | Java, Spring Boot, MyBatis, MySQL | [🔗 GitHub](https://github.com/hks0704/audit-log-board) |
 
+---
 
+# 🛠️ Developer Toolkits
+
+| Type | Scope | Repository | Description | Tech Stack | Link |
+|:---:|:---:|:---|:---|:---|:---:|
+| 🛠️ Toolkit | N/A | **Bash Automation** | 개발 환경 구축 및 반복 작업 자동화를 위한 Shell Script 모음 | Bash, Linux, Docker | [🔗 GitHub](https://github.com/hks0704/audit-log-board) |
+| 🛠️ Toolkit | N/A | **Backend Code Snippets** | Spring Boot 및 Java 개발에 재사용할 수 있는 공통 코드와 유틸리티 모음 | Java, Spring Boot | [🔗 GitHub](https://github.com/hks0704/audit-log-board) |
 
 ---
 
